@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.project.jpa.JavaJPA.JavaJpaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.998 s - in com.project.jpa.JavaJPA.JavaJpaApplicationTests

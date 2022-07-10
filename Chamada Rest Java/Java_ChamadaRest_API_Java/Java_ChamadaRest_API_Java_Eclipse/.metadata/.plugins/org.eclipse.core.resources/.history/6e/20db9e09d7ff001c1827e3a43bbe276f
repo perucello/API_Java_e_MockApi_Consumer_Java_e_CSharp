@@ -1,0 +1,10 @@
+package com.educaciencia.fastcode;
+
+public class ChamadaRest_API_Java {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

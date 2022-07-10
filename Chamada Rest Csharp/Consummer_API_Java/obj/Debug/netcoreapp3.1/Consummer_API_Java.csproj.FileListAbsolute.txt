@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Palestras 2022\06Jul - ExplorandoTI - Java - Rest\Chamada Rest Csharp\Consummer_API_Java\bin\Debug\netcoreapp3.1\Consummer_API_Java.exe
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Palestras 2022\06Jul - ExplorandoTI - Java - Rest\Chamada Rest Csharp\Consummer_API_Java\bin\Debug\netcoreapp3.1\Consummer_API_Java.deps.json
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Palestras 2022\06Jul - ExplorandoTI - Java - Rest\Chamada Rest Csharp\Consummer_API_Java\bin\Debug\netcoreapp3.1\Consummer_API_Java.runtimeconfig.json
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Palestras 2022\06Jul - ExplorandoTI - Java - Rest\Chamada Rest Csharp\Consummer_API_Java\bin\Debug\netcoreapp3.1\Consummer_API_Java.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Palestras 2022\06Jul - ExplorandoTI - Java - Rest\Chamada Rest Csharp\Consummer_API_Java\bin\Debug\netcoreapp3.1\Consummer_API_Java.dll
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Palestras 2022\06Jul - ExplorandoTI - Java - Rest\Chamada Rest Csharp\Consummer_API_Java\bin\Debug\netcoreapp3.1\Consummer_API_Java.pdb
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Palestras 2022\06Jul - ExplorandoTI - Java - Rest\Chamada Rest Csharp\Consummer_API_Java\obj\Debug\netcoreapp3.1\Consummer_API_Java.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Palestras 2022\06Jul - ExplorandoTI - Java - Rest\Chamada Rest Csharp\Consummer_API_Java\obj\Debug\netcoreapp3.1\Consummer_API_Java.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Palestras 2022\06Jul - ExplorandoTI - Java - Rest\Chamada Rest Csharp\Consummer_API_Java\obj\Debug\netcoreapp3.1\Consummer_API_Java.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Palestras 2022\06Jul - ExplorandoTI - Java - Rest\Chamada Rest Csharp\Consummer_API_Java\obj\Debug\netcoreapp3.1\Consummer_API_Java.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Palestras 2022\06Jul - ExplorandoTI - Java - Rest\Chamada Rest Csharp\Consummer_API_Java\obj\Debug\netcoreapp3.1\Consummer_API_Java.dll
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Palestras 2022\06Jul - ExplorandoTI - Java - Rest\Chamada Rest Csharp\Consummer_API_Java\obj\Debug\netcoreapp3.1\Consummer_API_Java.pdb
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Palestras 2022\06Jul - ExplorandoTI - Java - Rest\Chamada Rest Csharp\Consummer_API_Java\obj\Debug\netcoreapp3.1\Consummer_API_Java.genruntimeconfig.cache

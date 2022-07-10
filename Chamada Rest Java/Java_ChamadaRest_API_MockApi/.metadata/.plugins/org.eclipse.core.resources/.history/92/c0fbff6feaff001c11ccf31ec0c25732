@@ -1,0 +1,10 @@
+package com.educaciencia.fastcode;
+
+public class Java_ChamadaRest_API_MockApi {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

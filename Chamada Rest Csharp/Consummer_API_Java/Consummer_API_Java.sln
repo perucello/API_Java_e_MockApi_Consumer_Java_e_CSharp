@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consummer_API_Java", "Consummer_API_Java.csproj", "{1F56E357-0647-4E1A-A714-16A058A1EFD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F56E357-0647-4E1A-A714-16A058A1EFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F56E357-0647-4E1A-A714-16A058A1EFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F56E357-0647-4E1A-A714-16A058A1EFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F56E357-0647-4E1A-A714-16A058A1EFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7329F065-19B6-4F1A-B1AB-2C880E708E38}
+	EndGlobalSection
+EndGlobal
